@@ -1,4 +1,4 @@
-# BMI_Calculator by geeti
+# BMI_Calculator 
 
 
 ## Introduction
